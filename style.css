@@ -121,7 +121,7 @@
  }
  
  #a1980{
-     background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.76)),url(/1980.jpg);
+     background-image: linear-gradient(rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.76)),url(1980.jpg);
      background-size: cover;
      background-position: center;
  
